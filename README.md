@@ -1,2 +1,2 @@
-# Book_ZeroDeepLearning6
-# 生成モデル編
+# Learn_Bayesian
+# ベイズ統計学
